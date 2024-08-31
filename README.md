@@ -1,5 +1,5 @@
 # Job Market Analysis (Indeed Data)
-
+![Job Market Analysis](https://mms.businesswire.com/media/20220223005313/en/1368024/23/Indeed_Logo_2022.jpg)
 ## Overview
 This project provides a detailed analysis of job market trends, salary drivers, and the impact of job description sentiment on compensation. The findings offer insights for job seekers and employers, highlighting key trends in salary distribution, job roles, and market demands.
 
